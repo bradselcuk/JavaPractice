@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.LESSONS;
 
 public class ReturnType {
 

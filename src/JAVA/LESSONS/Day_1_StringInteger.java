@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.LESSONS;
 
 public class Day_1_StringInteger {
     public static void main(String[] args) {

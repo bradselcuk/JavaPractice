@@ -1,4 +1,4 @@
-package JAVA;
+package JAVA.LESSONS;
 
 import java.util.Arrays;
 import java.util.Collections;
